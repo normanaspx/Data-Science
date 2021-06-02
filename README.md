@@ -1,1 +1,1 @@
-Master in Data Science, courses and specialitations
+Master in Data Science, courses and specializations
