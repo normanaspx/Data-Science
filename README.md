@@ -1,4 +1,4 @@
-Master in Data Science, courses and specializations
+## Master in Data Science, courses and specializations
 
 courses that I have taken:
 
